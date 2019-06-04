@@ -5,6 +5,11 @@ import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
 import android.widget.TextView
 
+/**
+ * メインアクティヴィティ
+ *
+ * @author miki
+ */
 class MainActivity : AppCompatActivity() {
 
     private lateinit var textMessage: TextView
